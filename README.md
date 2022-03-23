@@ -19,7 +19,7 @@ cd c:\Users\YourName\Projects
 ```
 4. Clone the repository, e.g.
 ```
-git clone git@github.com:davidatbailey/automation-exercise-temp.git
+git clone git@github.com:davidatbailey/automationexercise1.git
 ```
 5. Open Visual Studio
 6. Choose **File > Open Project/Solution**
