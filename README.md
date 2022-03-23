@@ -35,7 +35,7 @@ npm install
 npx playwright test --headed
 ```
 Example console output:
-![Console output](./Capture.JPG)
+![Console output](./img/Capture.JPG)
 
 ## D. Running a test with tracing enabled
 1. Within Visual Studio, edit the configuration file playwright.config.js to set the value to include
