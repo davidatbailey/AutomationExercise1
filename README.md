@@ -1,4 +1,4 @@
-# automation-exercise-temp
+# automation-exercise
 
 # How to setup the tests
 
